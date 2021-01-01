@@ -73,7 +73,11 @@ unsigned char Buffer::pop( void ) { // remove entry from the queue and return it
   if (front == NULL) // if front is NULL, back has to become NULL as well
     back = NULL;
 
-  return temp->getData();
+  unsigned char Return = temp->getData(); // store return value for later
+
+  delete temp;
+
+  return Return;
 }
 
 // return true if queue is empty
