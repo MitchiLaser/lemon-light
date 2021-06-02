@@ -1,0 +1,7 @@
+Stückliste exportiert aus C:/Users/Michael Hohenstein/Documents/EAGLE/projects/Tiny85-daugtherboard/daughterboard.sch am 02.06.2021 15:19
+
+Qty Value             Device            Package      Parts    Description                POPULARITY
+2                     PINHD-1X4         1X04         JP1, JP2 PIN HEADER                 91        
+2   12pF              C-EUC0805         C0805        C1, C2   CAPACITOR, European symbol           
+1   14.7456MHz        KX-7              3.2X2.5_KX-7 Q1       Quartz Crystals (MHz) SMD:           
+1   TINY25/45/85-20SU TINY25/45/85-20SU SOIC8        U$1                                           
