@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2021-06-03T10:05:01Z",
+        "CreationDate": "2021-10-08T23:08:17Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,8 +17,8 @@
         },
         "Owner": "Michael Hohenstein <michael.hohenstein20@gmail.com>",
         "Size": {
-            "X": 85.07,
-            "Y": 66.98
+            "X": 75.07,
+            "Y": 52.48
         }
     }
 }

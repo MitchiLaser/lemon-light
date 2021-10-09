@@ -1,7 +1,7 @@
 {
     "author": {
-        "email": "michael.hohenstein20@gmail.com",
-        "name": "Michael Hohenstein"
+        "email": "support.eagle@autodesk.com",
+        "name": "Autodesk EAGLE"
     },
     "description": {
         "EN": "EAGLE default 2 layer CAM job."
@@ -183,7 +183,7 @@
                         "rotate": false,
                         "upside_down": false
                     },
-                    "board_outline": false,
+                    "board_outline": true,
                     "config": {
                         "file_function": "Legend",
                         "index": 1,
@@ -194,7 +194,7 @@
                         21,
                         27
                     ],
-                    "milling": false,
+                    "milling": true,
                     "name": "Silkscreen Top",
                     "polarity": "positive",
                     "type": "gerber_layer"
@@ -216,7 +216,7 @@
                     "filename_format": "%PREFIX/silkscreen_bottom.gbr",
                     "layers": [
                         22,
-                        26
+                        28
                     ],
                     "milling": false,
                     "name": "Silkscreen Bottom",
@@ -275,7 +275,7 @@
             ]
         }
     ],
-    "timestamp": "2021-06-03T12:05:25",
+    "timestamp": "2019-07-17T17:48:33",
     "type": "EAGLE CAM job",
     "units": "metric",
     "version": "9.2.0"

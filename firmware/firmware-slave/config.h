@@ -3,7 +3,7 @@
 
 
 // Baudrate for the serial connection
-#define SERIAL_BAUD 115200
+#define SERIAL_BAUD 19200
 
 
 // Pins, chosen for the UART interface

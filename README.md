@@ -18,6 +18,3 @@ The whole display is being controlled by a single master-controller which is mad
 
 There are some 3d printed objects that were used in the original build of this project: A part to hold the leds in the bottles and a box for the slave controller.
 
-## tests
-
-There are also a couple of scripts to test the functionality of the single components during construction.
